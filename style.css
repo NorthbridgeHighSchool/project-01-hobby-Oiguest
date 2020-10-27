@@ -1,0 +1,45 @@
+html {
+  background-color: rgb(174, 199, 183);
+  text-align: center;
+}
+img {
+  max-height: 275px;
+  border: 15px solid rgb(157, 182, 189);
+  padding: 10px
+}
+h1 {
+  font-variant: small-caps;
+}
+h2 {
+  font-variant: small-caps;
+}
+nav {
+  font-variant: small-caps;
+}
+p {
+  font-variant: small-caps;
+}
+a:link {
+  color: rgb(255, 252, 211);
+  border: 5px ridge rgb(157, 182, 189);
+  padding: 2px
+}
+a:visited {
+  color: rgb(255, 252, 171);
+  border: 5px ridge rgb(157, 182, 189);
+}
+a:hover {
+  color: rgb(210, 245, 207)
+}
+a.current {
+  color: rgba(187, 90, 90, 0.487)
+}
+a:active {
+  color: rgb(177, 157, 185)
+}
+li {
+  margin-bottom: 25px;
+}
+ul {
+  list-style-type: none;
+}
